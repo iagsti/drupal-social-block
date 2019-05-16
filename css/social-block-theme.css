@@ -1,0 +1,62 @@
+.social-block-media{
+    float: left;
+    display: inline-block;
+  }
+
+  .social-block-media a{
+    margin: 0 0 0 3px;
+  }
+
+.social-block-media{
+    margin: 10px 0;
+    overflow: hidden;
+    text-align: center;
+}
+
+.social-block-media a {
+    width: 30px;
+    height: 30px;
+    color: #fff;
+    display: inline-block;
+    margin: 0 10px 0 0;
+    text-align: center;
+    background: #3262b9;
+    font-size: 14px;
+    line-height: 220%;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+  }
+  
+.social-block-media a.google-plus{
+   background: #de2020;
+}
+ 
+.social-block-media a.twitter{
+   background: #29C5F6;
+}
+ 
+.social-block-media a.linkedin{
+   background: #069;
+}
+ 
+.social-block-media a.pinterest{
+   background: #C61118;
+}
+ 
+.social-block-media a.rss{
+   background: #FF6D00;
+}
+
+.social-block-media a.youtube{
+   background-color: #FFF;
+}
+ 
+.social-block-media a:hover{
+   opacity: .6;
+}
+
+.fa-youtube, .fa-youtube-play, .fa-youtube-square {
+   color: #bb0000
+}
+
+  

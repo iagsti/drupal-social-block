@@ -1,0 +1,7 @@
+name: Social Block
+type: module
+description: Defines a custom social block.
+core: 8.x
+package: Blocks
+dependencies:
+  - block
