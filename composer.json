@@ -1,0 +1,14 @@
+{
+    "name": "iagsti/drupal-social-block",
+    "description": "A social network block",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marcelo Schneider",
+            "email": "schneider.fei@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
